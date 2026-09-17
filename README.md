@@ -6,6 +6,9 @@ The project was created as part of my frontend development studies and focuses o
 
 🔗 **Live website:** https://landsguiden.vercel.app
 
+<img width="605" height="356" alt="Bild1" src="https://github.com/user-attachments/assets/9963ebe9-517d-4081-aca9-22f768012b5f" />
+
+
 ## 🎯 Problem, Purpose and Target Group
 
 Landsguiden is a simple web application that collects basic information about countries in one place, such as capital, population, region and languages.
@@ -15,6 +18,10 @@ The target group is anyone who wants a simple and clear way to explore informati
 An important purpose of this project is also learning and practice. I wanted to improve my skills in React, Next.js and TypeScript and practice working with data, search and filtering, state, interactive features and responsive design.
 
 I also wanted to create a project that gives me useful experience for working with larger and more real-world web projects in the future.
+
+
+<img width="605" height="316" alt="Bild3" src="https://github.com/user-attachments/assets/74925e1d-bd4c-4ca5-a55f-0f5bb764dfaa" />
+
 
 ## ✨ Features
 
@@ -33,6 +40,9 @@ I also wanted to create a project that gives me useful experience for working wi
 The comparison feature allows the user to select two countries and view their information side by side.
 
 This makes it easier to compare information such as population, capital, region and languages.
+
+<img width="605" height="341" alt="Bild2" src="https://github.com/user-attachments/assets/8dd5164b-869f-4c1f-b6c9-7289469662a2" />
+
 
 ## 🛠️ Technologies
 
